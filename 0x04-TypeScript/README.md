@@ -14,7 +14,6 @@ This repository walks through **12 incremental tasks** (Task 0 → Task 11
 4. [Task‑by‑Task Guide](#task-by-task-guide)
 5. [Build & Run Commands](#build--run-commands)
 6. [Key Take‑aways](#key-take-aways)
-7. [Credits](#credits)
 
 ---
 
